@@ -1,5 +1,11 @@
 {
   "ativo": true,
-  "bloquear": [],
-  "mensagem": ""
+  "bloquear": [
+    "0.9.0",
+    "0.10.0",
+    "0.10.1",
+    "0.10.2",
+    "0.11.0"
+  ],
+  "mensagem": "Esta versão de teste do Boteco foi encerrada. Peça a versão nova (0.11.1) para quem te mandou o jogo. Valeu por testar!"
 }
